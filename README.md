@@ -32,5 +32,5 @@ This demonstrates high resourcefulness and advanced problem-solving skills—pro
 ---
 
 ## 🔮 What's Next? (The Final Dashboard)
-The clean data produced by this Python pipeline is 100% ready to be loaded into modern business intelligence tools like **Power BI** or **Data Studio** to create interactive dashboards with:
+The clean data produced by this Python pipeline is 100% ready to be loaded into modern business intelligence tools like **Data Studio** or **Power BI** to create interactive dashboards with:
 * **Red Alert Filters**: To instantly see only the most dangerous pieces of trash.

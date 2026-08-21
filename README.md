@@ -1,7 +1,4 @@
 # 🛰️ Space Trash Tracker: Orbital Traffic & Risk Analytics
- (**Project Status:** *Under Active Development* 🏗️
-> **Note:** The Python backend and data engineering pipeline are 100% complete. I am currently building the interactive Power BI / Tableau dashboard, which will be deployed here in the next 1-2 days).
-
 ## 🌍 The Big Problem:
 Imagine driving on a highway full of speeding cars, but there are no traffic lights, and the road is littered with broken car parts flying around at 10 times the speed of a bullet. That is exactly what is happening in space right now!
 
@@ -35,5 +32,5 @@ This demonstrates high resourcefulness and advanced problem-solving skills—pro
 ---
 
 ## 🔮 What's Next? (The Final Dashboard)
-The clean data produced by this Python pipeline is 100% ready to be loaded into modern business intelligence tools like **Power BI** or **Tableau** to create interactive dashboards with:
+The clean data produced by this Python pipeline is 100% ready to be loaded into modern business intelligence tools like **Power BI** or **Data Studio** to create interactive dashboards with:
 * **Red Alert Filters**: To instantly see only the most dangerous pieces of trash.
